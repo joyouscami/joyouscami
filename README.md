@@ -39,7 +39,7 @@ Analyses of public health datasets using R. Includes demographic breakdowns, tre
 
 - 💬 I love digging into raw datasets and creating clean, understandable narratives from them.
 - 🚀 Always learning: currently deepening my skills in predictive modeling and time series forecasting.
-- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/Joy Mukami)
+- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joy-mukami)
 
 
 -->
