@@ -7,7 +7,7 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 ### 🧰 Tools & Technologies
 - **Languages**: Python, R, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Jupyter Notebooks, RStudio, Git, Power BI, Excel
+- **Tools**: Jupyter Notebooks, RStudio, Git, Power BI, VS Code, Excel
 
 ---
 
