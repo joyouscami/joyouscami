@@ -30,7 +30,7 @@ Built a classification model using XGBoost to identify likely defaults. Includes
 A work-in-progress project using historical data to build a basic trade signal bot. Focuses on data handling, feature engineering, and modeling.
 
 #### 🩺 Public Health Insights with R
-🔗 [Public Health Data Projects](https://github.com/yourusername/public-health-data-projects)  
+🔗 [Public Health Data Projects](https://github.com/yourusername/Public-Health-Data-Projects)  
 Analyses of public health datasets using R. Includes demographic breakdowns, trend analysis, and visualizations.
 
 ---
