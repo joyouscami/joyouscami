@@ -18,11 +18,11 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 In-depth EDA on transaction data to identify customer behavior, spending trends, and anomalies.
 
 #### 🧹 Data Cleaning Toolkit
-🔗 [Data Cleaning Scripts](https://github.com/joyouscami/data-cleaning-python)  
+🔗 [Data Cleaning Scripts](https://github.com/joyouscami/data-cleaning-scripts)  
 Reusable Python functions for cleaning messy datasets: handling missing data, encoding, and type conversions.
 
 #### 💳 Credit Card Default Prediction
-🔗 [Default Prediction Model](https://github.com/joyouscami/credit-card-default-model)  
+🔗 [Default Prediction Model](https://github.com/joyouscami/default-prediction-model)  
 Built a classification model using XGBoost to identify likely defaults. Includes EDA and model evaluation.
 
 #### 📈 Trade Prediction Bot (In Progress)
