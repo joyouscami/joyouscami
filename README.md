@@ -26,7 +26,7 @@ Reusable Python functions for cleaning messy datasets: handling missing data, en
 Built a classification model using XGBoost to identify likely defaults. Includes EDA and model evaluation.
 
 #### 📈 Trade Prediction Bot (In Progress)
-🔗 [Trading Bot with Python](https://github.com/joyouscami/trade-prediction-bot)  
+🔗 [Trading Bot with Python](https://github.com/joyouscami/META-TRADER-5-BOT)  
 A work-in-progress project using historical data to build a basic trade signal bot. Focuses on data handling, feature engineering, and modeling.
 
 #### 🩺 Public Health Insights with R
