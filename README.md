@@ -17,9 +17,9 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 🔗 [Transaction Analysis using Pandas](https://github.com/joyouscami/transaction-analysis)  
 In-depth EDA on transaction data to identify customer behavior, spending trends, and anomalies.
 
-#### 🧹 Data Cleaning Toolkit
-🔗 [Data Cleaning Scripts](https://github.com/joyouscami/data-cleaning-scripts)  
-Reusable Python functions for cleaning messy datasets: handling missing data, encoding, and type conversions.
+#### 🩺 Amref Health Africa Research Project
+🔗 [Amref Reserch Project](https://github.com/joyouscami/Amref-Research)  
+Conducted inferential data analysis for an Amref Health Africa project, applying R, SPSS, and Kobo Toolbox to clean, analyze, and model community-led public health data.
 
 #### 💳 Credit Card Default Prediction
 🔗 [Default Prediction Model](https://github.com/joyouscami/default-prediction-model)  
