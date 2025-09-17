@@ -13,7 +13,7 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 
 ###  Highlighted Projects
 
-#### 📊 Transaction Analysis
+#### Transaction Analysis
 🔗 [Transaction Analysis using Pandas](https://github.com/joyouscami/transaction-analysis)  
 In-depth EDA on transaction data to identify customer behavior, spending trends, and anomalies.
 
