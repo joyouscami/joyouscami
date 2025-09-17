@@ -1,17 +1,17 @@
-# Hi, I'm Joy 👋
+# Hi, I'm Joy
 
 I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysis (EDA)**, and building insights from real-world datasets using **Python** and **R**. I enjoy turning raw data into meaningful patterns and have worked on diverse projects across **finance**, **public health**, and **trading analytics**.
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 - **Languages**: Python, R, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Jupyter Notebooks, RStudio, Git, Power BI, VS Code, Excel
 
 ---
 
-### 📌 Highlighted Projects
+###  Highlighted Projects
 
 #### 📊 Transaction Analysis
 🔗 [Transaction Analysis using Pandas](https://github.com/joyouscami/transaction-analysis)  
@@ -35,8 +35,8 @@ Analyses of public health datasets using R. Includes demographic breakdowns, tre
 
 ---
 
-### ✍️ About Me
+### About Me
 
-- 💬 I love digging into raw datasets and creating clean, understandable narratives from them.
-- 🚀 Always learning: currently deepening my skills in predictive modeling and time series forecasting.
-- 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joy-mukami)
+- I love digging into raw datasets and creating clean, understandable narratives from them.
+- Always learning: currently deepening my skills in predictive modeling and time series forecasting.
+- Let’s connect: [LinkedIn](https://www.linkedin.com/in/joy-mukami)
