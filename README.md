@@ -13,9 +13,9 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 
 ###  Highlighted Projects
 
-#### Transaction Analysis
-🔗 [Transaction Analysis using Pandas](https://github.com/joyouscami/transaction-analysis)  
-In-depth EDA on transaction data to identify customer behavior, spending trends, and anomalies.
+#### Revenue Leakage Detection & 3 Way Reconciliation System
+🔗 [Revenue Leakage](https://github.com/joyouscami/Revenue-Leakage)  
+This project implements a finance-grade reconciliation and revenue-leakage detection workflow using Python and machine learning. It mirrors real operational challenges in African digital ecosystems where payments, settlements, and refunds sit in different systems.
 
 #### Amref Health Africa Research Project
 🔗 [Amref Reserch Project](https://github.com/joyouscami/Amref-Research)  
