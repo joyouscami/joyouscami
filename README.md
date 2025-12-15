@@ -14,7 +14,7 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 ###  Highlighted Projects
 
 #### Revenue Leakage Detection & 3 Way Reconciliation System
-🔗 [Revenue Leakage](https://github.com/joyouscami/Revenue-Leakage)  
+🔗 [Revenue Leakage](https://github.com/joyouscami/Payments-Reconciliation)  
 This project implements a finance-grade reconciliation and revenue-leakage detection workflow using Python and machine learning. It mirrors real operational challenges in African digital ecosystems where payments, settlements, and refunds sit in different systems.
 
 #### Amref Health Africa Research Project
