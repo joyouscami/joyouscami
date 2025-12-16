@@ -15,7 +15,7 @@ I'm a **Data Analyst** with a focus on **data cleaning, exploratory data analysi
 
 #### Revenue Leakage Detection Through Real‑World Reconciliation Controls
 🔗 [Payments Reconciliation](https://github.com/joyouscami/Payments-Reconciliation)  
-A risk-aware reconciliation system that mirrors how real financial institutions operate — resolving ambiguous payments and refunds using confidence-based matching, explainability, and audit-ready controls.
+A risk-aware reconciliation system that mirrors how real financial institutions operate, resolving ambiguous payments and refunds using confidence-based matching, explainability, and audit-ready controls.
 
 #### Amref Health Africa Research Project
 🔗 [Amref Reserch Project](https://github.com/joyouscami/Amref-Research)  
